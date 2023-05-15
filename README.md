@@ -36,6 +36,6 @@ Aclaraciones:
 # 5. # Aproximación Seudocódigo: 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![PSeInt](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/62df7aa3-467b-4bf7-ae4a-35a1e8ae34bd)
 
-![image (2)](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/e1c862e5-dfd8-4821-a4bb-206ad6055417)
 
