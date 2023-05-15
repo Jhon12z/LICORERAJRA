@@ -1,5 +1,5 @@
 # LICORERAJRA
-# Documento Sistema de factura de Venta de Licor
+# Documento Sistema de factura de Venta de Licor 
 # Tabla Contenido
 1. Enunciado
 2. Aproximacion Plantilla historia de uso.
