@@ -11,13 +11,13 @@ Aclaraciones:
 ![Historia Usuario](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/d0935e93-8e87-4c20-bf0a-1ab0c22a8ecf)
 
 
-Aproximación Caso de Uso:
+# Aproximación Caso de Uso:
 ![Caso de uso](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/d875138a-4077-4501-8082-8fde943364ac)
-Aproximación Diagrama de Flujo:
+# Aproximación Diagrama de Flujo:
 
 
 ![Diagrama](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/00ff249f-69da-4fd1-a367-68505db9e850)
-Aproximación Seudocódigo:
+#Aproximación Seudocódigo:
 
 
 
