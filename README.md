@@ -1,5 +1,5 @@
 # LICORERAJRA
-Intro
+# Introduccion
 
 
 una aplicación que necesita un administrador de una licorera, el sistema de factura que lleve el nombre del local dirección nit  teléfono y razón social donde slogan red social se le debe especificar 
