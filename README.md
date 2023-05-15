@@ -7,7 +7,7 @@ Aclaraciones:
 • descripción producto precio cantidad y total para la realización de la factura
 
 
-Aproximación Plantilla Historia de Usuario:
+# Aproximación Plantilla Historia de Usuario:
 ![Historia Usuario](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/d0935e93-8e87-4c20-bf0a-1ab0c22a8ecf)
 
 
