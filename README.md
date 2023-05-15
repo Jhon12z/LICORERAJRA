@@ -17,7 +17,7 @@ Aclaraciones:
 
 
 ![Diagrama](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/00ff249f-69da-4fd1-a367-68505db9e850)
-#Aproximación Seudocódigo:
+# Aproximación Seudocódigo: 
 
 
 ![image (2)](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/e1c862e5-dfd8-4821-a4bb-206ad6055417)
