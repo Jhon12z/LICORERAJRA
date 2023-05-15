@@ -20,28 +20,5 @@ Aclaraciones:
 #Aproximación Seudocódigo:
 
 
+![image (2)](https://github.com/Jhon12z/LICORERAJRA/assets/133507283/e1c862e5-dfd8-4821-a4bb-206ad6055417)
 
-Algoritmo licorera
-Definir precio,cantidad,total_compra,direccion,telefono Como Entero
-Definir descripcion Como Caracter
-Definir nombre Como Caracter
-Escribir 'Ingrese el nombre del cliente:'
-Leer nombre
-Escribir 'Ingrese el telefono:'
-Leer telefono
-Escribir 'Ingrese la direccion):'
-Leer direccion
-Escribir 'Ingrese el articulo:'
-Leer articulo
-Escribir 'ingrese el precio:'
-Leer precio
-Escribir 'Ingrese la cantidad :'
-Leer cantidad
-total_compra <- precio*cantidad
-Escribir 'Factura:'
-Escribir 'Nombre del cliente: ',nombre
-Escribir 'numero telefono: ',telefono
-Escribir 'descripcion: ',articulo
-Escribir 'Cantidad s: ',cantidad
-Escribir 'Precio total de la compra: $',total_compra
-FinAlgoritmo
