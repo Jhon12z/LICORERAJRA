@@ -1,11 +1,6 @@
 # LICORERAJRA
 # Documento Sistema de factura de Venta de Licor 
-# Tabla Contenido
-1. Enunciado
-2. Aproximacion Plantilla historia de uso.
-3. Aproximacion Caso de uso
-4. Aproximacion Diagrama de flujo
-5. Aproximacion Seudocodigo
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 1. # Enunciado
